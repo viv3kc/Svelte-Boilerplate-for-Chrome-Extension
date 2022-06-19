@@ -1,0 +1,14 @@
+{
+  "name": "Example",
+  "description": "Description",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [{
+    "matches": [],
+    "js": ["build/bundle.js"],
+    "run_at": "document_end"
+  }]
+}
