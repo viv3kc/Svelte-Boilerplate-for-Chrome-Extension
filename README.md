@@ -15,7 +15,7 @@ npm install
 npm run dev
 ```
 
-* mainfest.json is available in public/manifest.json
+* mainfest.json path: public/manifest.json
 
 * Article - https://ravensmove.com/build-chrome-extension-with-svelte/
 
