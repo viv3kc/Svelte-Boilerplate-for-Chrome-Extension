@@ -1,13 +1,17 @@
-# Svelte boilerplate for chrome extension using manifest v3
+# Build Chrome Extension with Manifest v3 using Svelte
 
 ## Quick start
 
 * Setup your project
 ```bash
 clone the git@github.com:viv3kc/Svelte-Boilerplate-for-Chrome-Extension.git
+
 mv Svelte-Boilerplate-for-Chrome-Extension <project_name>
+
 cd <project_name>
+
 npm install
+
 npm run dev
 ```
 
